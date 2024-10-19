@@ -1,1 +1,7 @@
+Version 2.20 Changelog:
 
+> Base Update 13.5.0.41 
+> Enabled Custom Ringtone in +
+> Enabled Lightening Snaps (0.1 second, 0.5 second snaps)
+> Move the night mode option to Plus features
+> Fixed Minor bugs
