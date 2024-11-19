@@ -1,8 +1,8 @@
 {
   "Gold": {
-    "update_code": "2",
+    "update_code": "3",
     "reminder_time": "3",
-    "update_version": "v2.30",
+    "update_version": "v2.20",
     "com.snapchat.android": "https://www.abu2rab.com/2024/02/snap-chat-ali.html",
     "update_message": "
 <p>Update VØªØ­Ø¯ÙŠØ« 2.40</p>
