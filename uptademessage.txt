@@ -2,16 +2,16 @@
   "Gold": {
     "update_code": "2",
     "reminder_time": "3",
-    "update_version": "v2.10",
+    "update_version": "v2.20",
     "com.snapchat.android": "https://www.abu2rab.com/2024/02/snap-chat-ali.html",
     "update_message": "
-<p>Update VØªØ­Ø¯ÙŠØ« 2.20</p>
-<li>ØªØ­Ø¯ÙŠØ« Ù‚Ø§Ø¹Ø¯Ø© Ø³Ù†Ø§Ø¨ 13.5.0.41 (Ø¨Ù„Ø§ÙŠ Ø³ØªÙˆØ±)</li>
+<p>Update VØªØ­Ø¯ÙŠØ« 2.40</p>
+<li>ØªØ­Ø¯ÙŠØ« Ù‚Ø§Ø¹Ø¯Ø© Ø³Ù†Ø§Ø¨ 13.11.0.42 (Ø¨Ù„Ø§ÙŠ Ø³ØªÙˆØ±)</li>
 <li>ØªÙ… ØªÙØ¹ÙŠÙ„ Ø³Ù†Ø§Ø¨ Ø¨Ù„Ø³ (Snap+) Ù„Ù„Ø¬Ù…ÙŠØ¹ (Ù…Ø¹Ø¸Ù… Ù…ÙŠØ²Ø§Øª Ø¨Ù„Ø³ ØªØ¹Ù…Ù„ØŒ Ù„ÙƒÙ† Ø§Ù„Ù‚Ù„ÙŠÙ„ Ù…Ù†Ù‡Ø§ Ø§Ù„Ø°ÙŠ ÙŠØªØ·Ù„Ø¨ Ø®Ø§Ø¯Ù…Ù‹Ø§ Ù„Ø§ ÙŠØ¹Ù…Ù„ðŸ””)</li>
 <li>Ø§Ù…ÙƒØ§Ù†ÙŠØ© ØªØ¹Ø¯ÙŠÙ„ Ø§Ù„Ø±Ø³Ø§Ø¦Ù„ Ø¨Ø¹Ø¯ Ø§Ù„Ø¥Ø±Ø³Ø§Ù„</li>
 <li>Ø¥ØµÙ„Ø§Ø­Ø§Øª Ø§Ø®Ø±Ù‰</li>
 
-<li>Base Update 13.5.0.41</li>
+<li>Base Update 13.11.0.42</li>
 <li>Snap+ activated for all Most + features work, but few that require server don't work</li>
 <li>Edit Messages after sending</li>
 <li>[Fixed] Streak Expiry in hoursupdate</li>
