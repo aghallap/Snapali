@@ -1,6 +1,7 @@
-Version 2.20 Changelog:
+Version 2.40 Changelog:
 
-> Base Update 13.5.0.41 
+> Base Update 13.11.0.42
+> AntiBan
 > Enabled Custom Ringtone in +
 > Enabled Lightening Snaps (0.1 second, 0.5 second snaps)
 > Move the night mode option to Plus features
