@@ -1,11 +1,11 @@
 {
   "Gold": {
-    "update_code": "5",
+    "update_code": "6",
     "reminder_time": "3",
     "update_version": "v2.50",
     "com.snapchat.android": "https://www.abu2rab.com/2024/02/snap-chat-ali.html",
     "update_message": "
-<p>Update VØªØ­Ø¯ÙŠØ« 2.20</p>
+<p>Update VØªØ­Ø¯ÙŠØ« 2.50</p>
 <li>ØªØ­Ø¯ÙŠØ« Ù‚Ø§Ø¹Ø¯Ø© Ø³Ù†Ø§Ø¨ 13.5.0.41  (Ø¨Ù„Ø§ÙŠ Ø³ØªÙˆØ±)</li>
 <li>ØªÙ…ÙƒÙŠÙ† Ù†ØºÙ…Ø© Ø±Ù†ÙŠÙ† Ù…Ø®ØµØµØ© ÙÙŠ Ø§Ù„Ø¨Ù„Ø³</li>
 <li>ØªÙ…ÙƒÙŠÙ† Ø§Ù„Ù„Ù‚Ø·Ø§Øª Ø§Ù„Ø³Ø±ÙŠØ¹Ø©(0.1 Ø«Ø§Ù†ÙŠØ©ØŒ 0.5 Ø«Ø§Ù†ÙŠØ© Ù„Ù‚Ø·Ø§Øª)</li>
