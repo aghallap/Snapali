@@ -1,6 +1,6 @@
-Version 2.40 Changelog:
+Version 5.0 Changelog:
 
-> Base Update 13.11.0.42
+> Base Update 13.21.0.43
 > AntiBan
 > Enabled Custom Ringtone in +
 > Enabled Lightening Snaps (0.1 second, 0.5 second snaps)
