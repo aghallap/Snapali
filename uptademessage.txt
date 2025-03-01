@@ -1,22 +1,22 @@
 {
   "Gold": {
-    "update_code": "7",
+    "update_code": "9",
     "reminder_time": "3",
-    "update_version": "v2.50",
+    "update_version": "v3.00",
     "com.snapchat.android": "https://www.abu2rab.com/2024/02/snap-chat-ali.html",
     "update_message": "
-<p>Update VØªØ­Ø¯ÙŠØ« 2.50</p>
-<li>ØªØ­Ø¯ÙŠØ« Ù‚Ø§Ø¹Ø¯Ø© Ø³Ù†Ø§Ø¨ 13.5.0.41  (Ø¨Ù„Ø§ÙŠ Ø³ØªÙˆØ±)</li>
-<li>ØªÙ…ÙƒÙŠÙ† Ù†ØºÙ…Ø© Ø±Ù†ÙŠÙ† Ù…Ø®ØµØµØ© ÙÙŠ Ø§Ù„Ø¨Ù„Ø³</li>
-<li>ØªÙ…ÙƒÙŠÙ† Ø§Ù„Ù„Ù‚Ø·Ø§Øª Ø§Ù„Ø³Ø±ÙŠØ¹Ø©(0.1 Ø«Ø§Ù†ÙŠØ©ØŒ 0.5 Ø«Ø§Ù†ÙŠØ© Ù„Ù‚Ø·Ø§Øª)</li>
-<li>Ù†Ù‚Ù„ Ø®ÙŠØ§Ø± Ø§Ù„ÙˆØ¶Ø¹ Ø§Ù„Ù„ÙŠÙ„ÙŠ Ø§Ù„Ù‰ Ù…ÙŠØ²Ø§Øª Ø§Ù„Ø¨Ù„Ø³</li>
-<li>Ø¥ØµÙ„Ø§Ø­Ø§Øª Ø§Ø®Ø±Ù‰</li>
+<p>Update version « 3.00</p>
+<li>تحديث الكود المصدر إلى 13.22.0.61</li>
+<li>تمت الترقية إلى المستوى البلاتيني SC+</li>
+<li>يأتي بدون أي إعلانات في المناطق المدعومة</li>
+<li>تم إصلاح مشكلة تعطل التطبيق على بعض الأجهزة</li>
+<li>تم إصلاح بعض المشاكل</li>
 
-<li>Base Update 13.5.0.41 </li>
-<li>Enabled Custom Ringtone in +</li>
-<li>Enabled Lightening Snaps (0.1 second, 0.5 second snaps)</li>
-<li>Move the night mode option to Plus features</li>
-<li>[Fixed] Minor bugs</li>
+<li>Update source code to 13.22.0.61</li>
+<li>Upgraded to SC+ Platinum tier</li>
+<li>comes with zero ads in supported regions</li>
+<li>Fixed the issue of the app crashing on some devices</li>
+<li>Fixed some problem</li>
 "
     }
 }
